@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>MultiModalMain</artifactId>
+	<artifactId>microService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>MultiModalMain</name>
+	<name>microService</name>
 
 	<modules>
 		<module>Weather</module> <!-- Укажите все модули здесь -->
